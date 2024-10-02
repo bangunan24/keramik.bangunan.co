@@ -1,0 +1,55 @@
+testimonials:
+  - avatar: /images/admin/avatar1.png
+    name: Rudi
+    message: >-
+      Layanan keramik.bangunan.co sangat membantu untuk memilih keramik yang
+      tepat bagi rumah saya. Produk yang saya beli berkualitas dan cocok dengan
+      kebutuhan saya.
+    response: Kami menghargai kepercayaan Anda. Terima kasih telah memilih kami!
+    rating: 4
+  - avatar: /images/admin/avatar2.png
+    name: Dewi
+    message: >-
+      Saya terkesan dengan layanan keramik.bangunan.co. Keramik yang saya pilih
+      berkualitas dan sesuai dengan harapan saya.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan produk dari kami.
+    rating: 4
+  - avatar: /images/admin/avatar3.png
+    name: Rizal
+    message: >-
+      Saya terkesan dengan keramik dinding yang saya beli dari
+      keramik.bangunan.co. Variasi warna dan dimensi sangat memuaskan untuk
+      proyek rumah saya.
+    response: >-
+      Kami senang bisa memenuhi kebutuhan Anda! Terima kasih atas
+      kepercayaannya.
+    rating: 4.6
+  - avatar: /images/admin/avatar4.png
+    name: Ari
+    message: >-
+      Saya sangat puas dengan granit dari keramik.bangunan.co. Mutu produknya
+      unggul dan tepat untuk permukaan rumah saya.
+    response: >-
+      Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih
+      layanan kami!
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Maya
+    message: >-
+      Pelayanan keramik.bangunan.co sangat memuaskan. Produk keramik yang saya
+      pesan sangat berkualitas dan sesuai dengan keinginan saya.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
+      proyek Anda kepada kami!
+    rating: 4.5
+  - avatar: /images/admin/avatar6.png
+    name: Eko
+    message: >-
+      Keramik lantai dari keramik.bangunan.co cocok dengan kebutuhan proyek
+      renovasi rumah saya. Proses pengirimannya cepat dan rapi.
+    response: >-
+      Terima kasih telah mempercayakan proyek Anda kepada kami. Kami senang Anda
+      puas dengan hasilnya.
+    rating: 4
