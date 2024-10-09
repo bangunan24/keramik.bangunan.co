@@ -33,8 +33,8 @@ paginate = 6
 
   # Schema settings
   keywords = ["jual keramik lantai", "keramik dinding", "granit", "marmer", "keramik murah", "distributor keramik", "keramik rumah", "keramik mozaik", "keramik batu alam"]
-  base_price = 35000
-  price_range = 50000
+  base_price = 75000
+  price_range = 30000
   free_shipping = true
   materials = [
   "Keramik Lantai Standar",
@@ -104,7 +104,7 @@ paginate = 6
   name = "{Joko|Agus|Bayu|Faisal|Galih|Rizal|Bambang|Ali|Fajar|Toni}"
   message = "{Produk keramik dinding dari keramik.bangunan.co memiliki {banyak pilihan|beragam opsi} {warna|variasi warna} dan {ukuran|dimensi} juga {motif|desain}, {cocok|sesuai} untuk {proyek|usaha} perumahan saya. Proses pembelian dan {pengirimannya|pengiriman} {juga cepat|sangat efisien|lancar}.|Saya {sangat puas|terkesan|senang} dengan keramik dinding yang saya {pesan|beli} dari keramik.bangunan.co. {Warna|Variasi warna} dan {ukuran|dimensi} {sangat memuaskan|tepat} untuk proyek rumah saya.}"
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan keramik {berkualitas|unggul} dengan layanan {terbaik|yang prima}.|Kami senang bisa memenuhi kebutuhan Anda! Terima kasih atas kepercayaannya.}"
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
@@ -118,7 +118,7 @@ paginate = 6
   name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
   message = "{Pelayanan keramik.bangunan.co {sangat memuaskan|luar biasa|hebat}. Produk {keramik|keramik lantai} yang saya {beli|pesan} {sangat berkualitas|berkualitas tinggi|handal} dan {sesuai|cocok} dengan {harapan|ekspektasi|keinginan} saya.|Saya {senang|terkesan|puas} dengan layanan dari keramik.bangunan.co. Keramik yang saya pilih {berkualitas|kokoh|tahan lama} dan sesuai dengan kebutuhan saya.}"
   response = "{Terima kasih! Kami senang dapat {membantu|melayani} Anda dengan keramik {terbaik|unggul}.|Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan proyek Anda kepada kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
