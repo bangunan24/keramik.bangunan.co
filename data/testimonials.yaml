@@ -1,55 +1,56 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Wawan
     message: >-
-      Layanan keramik.bangunan.co efektif untuk memilih keramik yang tepat bagi
-      rumah saya. Produk yang saya pesan berkualitas dan cocok dengan kebutuhan
-      saya.
-    response: Kami menghargai kepercayaan Anda. Terima kasih telah memilih kami!
+      Saya membeli keramik lantai dari keramik.bangunan.co untuk proyek rumah
+      saya, dan hasilnya memuaskan. Mutu barang tinggi dan harga terjangkau.
+    response: >-
+      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan keramik
+      terbaik untuk proyek rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Siti
+    name: Maya
     message: >-
-      keramik.bangunan.co sangat membantu dalam memilih keramik untuk rumah
-      saya. Produk yang saya pesan berkualitas dan sesuai dengan kebutuhan saya.
+      Saya terkesan dengan layanan keramik.bangunan.co. Keramik yang saya pilih
+      berkualitas dan sesuai dengan harapan saya.
     response: >-
       Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
-      dengan keramik dari kami.
+      dengan produk dari kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Bayu
+    name: Agus
     message: >-
-      Produk keramik dinding dari keramik.bangunan.co memiliki beragam opsi
-      variasi warna dan ukuran juga desain, cocok untuk usaha perumahan saya.
-      Proses pembelian dan pengirimannya juga cepat.
+      Saya senang dengan keramik dinding yang saya beli dari
+      keramik.bangunan.co. Variasi warna dan ukuran tepat untuk proyek rumah
+      saya.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan keramik berkualitas
-      dengan layanan yang prima.
+      Kami senang bisa memenuhi kebutuhan Anda! Terima kasih atas
+      kepercayaannya.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Gani
+    name: Yudi
     message: >-
-      Saya terkesan dengan keramik granit dari keramik.bangunan.co. Kualitas
-      produknya unggul dan presisi untuk lantai rumah saya.
+      Kolam terpal dari kolam.bangunan.co tahan lama dan sesuai dengan keperluan
+      budidaya ikan saya.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih sudah memilih
       layanan kami!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Maya
+    name: Dewi
     message: >-
-      Pelayanan keramik.bangunan.co luar biasa. Produk keramik yang saya beli
-      berkualitas tinggi dan cocok dengan harapan saya.
+      Saya senang dengan layanan dari keramik.bangunan.co. Keramik yang saya
+      pilih berkualitas dan sesuai dengan kebutuhan saya.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
       proyek Anda kepada kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Yanto
+    name: Toni
     message: >-
-      Saya puas dengan keramik lantai dari keramik.bangunan.co. Layanan
-      pengirimannya profesional dan sesuai dengan kebutuhan proyek saya.
+      Keramik lantai dari keramik.bangunan.co tepat dengan kebutuhan proyek
+      renovasi rumah saya. Proses pengiriman efisien dan lancar.
     response: >-
-      Kami gembira mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas ulasannya!
+      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas kepercayaannya!
     rating: 4
